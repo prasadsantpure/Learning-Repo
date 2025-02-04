@@ -1,2 +1,2 @@
 # Learning-Repo
-Learning from Git and GitHub basic
+Learning from Git and GitHub basic.
